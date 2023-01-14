@@ -24,7 +24,7 @@
         "technologies": [
           {
             "class": "devicon-html5-plain",
-            "name": "HTML"
+            "name": "HTML5"
           },
           {
             "class": "devicon-javascript-plain",
@@ -32,7 +32,7 @@
           },
           {
             "class": "devicon-css3-plain",
-            "name": "CSS"
+            "name": "CSS3"
           }
         ]
       },
@@ -48,7 +48,7 @@
         "technologies": [
           {
             "class": "devicon-html5-plain",
-            "name": "HTML"
+            "name": "HTML5"
           },
           {
             "class": "devicon-javascript-plain",
@@ -56,7 +56,7 @@
           },
           {
             "class": "devicon-css3-plain",
-            "name": "CSS"
+            "name": "CSS3"
           }
         ]
       },
@@ -71,16 +71,16 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
@@ -117,10 +117,10 @@
       },
       {
         "company": "United States Air Force",
-        "title": "Senior Airman",
+        "title": "Plans, Scheduling, & Documentation Journeyman",
         "years": "02.2008 - 02.2014",
         "mainTech": [
-          "Plans, Scheduling, & Documentation"
+          "Aircraft Maintenance"
         ],
         "technologies": [
           "GO81",
