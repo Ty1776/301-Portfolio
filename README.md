@@ -32,17 +32,17 @@ Estimate of time needed to complete: 1.5hr
 
 Start time: 1600
 
-Finish time: 
+Finish time: 1710
 
-Actual time needed to complete: 
+Actual time needed to complete: 1hr 10min
 
 ---------------------------------------------------------------------
 
-Number and name of feature: 
+Number and name of feature: Skills and Experience
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 2hrs
 
-Start time: 
+Start time: 1710
 
 Finish time: 
 
